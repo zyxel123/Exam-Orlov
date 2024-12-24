@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\306\\Desktop\\\u041E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\Exam Orlov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A7D680-2969-485C-9232-575904DBE6A7}|MainProgram Orlov\\MainProgram Orlov.csproj|c:\\users\\306\\desktop\\\u043E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\exam orlov\\mainprogram orlov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A7D680-2969-485C-9232-575904DBE6A7}|MainProgram Orlov\\MainProgram Orlov.csproj|solutionrelative:mainprogram orlov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A04F2C1-3D25-4D09-B74D-A8D8EEB4C94C}|DLLibrary\\DLLibrary.csproj|c:\\users\\306\\desktop\\\u043E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\exam orlov\\dllibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A04F2C1-3D25-4D09-B74D-A8D8EEB4C94C}|DLLibrary\\DLLibrary.csproj|solutionrelative:dllibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\306\\Desktop\\\u041E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\Exam Orlov\\MainProgram Orlov\\Program.cs",
+              "RelativeDocumentMoniker": "MainProgram Orlov\\Program.cs",
+              "ToolTip": "C:\\Users\\306\\Desktop\\\u041E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\Exam Orlov\\MainProgram Orlov\\Program.cs",
+              "RelativeToolTip": "MainProgram Orlov\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:56:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\306\\Desktop\\\u041E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\Exam Orlov\\DLLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "DLLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\306\\Desktop\\\u041E\u0440\u043B\u043E\u0432 \u0440\u0430\u0431\u043E\u0442\u0430\\Exam Orlov\\DLLibrary\\Class1.cs",
+              "RelativeToolTip": "DLLibrary\\Class1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:50:01.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

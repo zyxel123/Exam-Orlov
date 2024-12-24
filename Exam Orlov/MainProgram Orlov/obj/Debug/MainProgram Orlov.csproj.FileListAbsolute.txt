@@ -1,0 +1,10 @@
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\bin\Debug\MainProgram Orlov.exe.config
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\bin\Debug\MainProgram Orlov.exe
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\bin\Debug\MainProgram Orlov.pdb
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\bin\Debug\DLLibrary.dll
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\bin\Debug\DLLibrary.pdb
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\obj\Debug\MainProgram Orlov.csproj.AssemblyReference.cache
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\obj\Debug\MainProgram Orlov.csproj.CoreCompileInputs.cache
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\obj\Debug\MainProg.0DAF9049.Up2Date
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\obj\Debug\MainProgram Orlov.exe
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\MainProgram Orlov\obj\Debug\MainProgram Orlov.pdb

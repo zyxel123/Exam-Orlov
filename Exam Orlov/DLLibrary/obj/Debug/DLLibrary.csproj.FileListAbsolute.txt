@@ -1,0 +1,6 @@
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\DLLibrary\bin\Debug\DLLibrary.dll
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\DLLibrary\bin\Debug\DLLibrary.pdb
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\DLLibrary\obj\Debug\DLLibrary.csproj.AssemblyReference.cache
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\DLLibrary\obj\Debug\DLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\DLLibrary\obj\Debug\DLLibrary.dll
+C:\Users\306\Desktop\Орлов работа\Exam Orlov\DLLibrary\obj\Debug\DLLibrary.pdb
